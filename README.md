@@ -53,6 +53,14 @@ Welcome to the **Bank Customer Churn Prediction** project! This is an end-to-end
 
 ---
 
+## 🔮 Streamlit App Preview
+
+![Customer Information Input Form](models/model.png)
+
+![Prediction Results & Churn Gauge](models/modell.png)
+
+---
+
 ## 📂 Project Structure
 
 ```text
